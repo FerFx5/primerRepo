@@ -1,1 +1,1 @@
-nvar='Hola  10 de abril'
+nvar='Hola  10 de abril de 2024 A'
